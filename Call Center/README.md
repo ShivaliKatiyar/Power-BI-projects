@@ -1,9 +1,9 @@
 Call Centre Dashboard
 
-Overview
+Overview:
 This repository contains the Power BI files for a comprehensive Call Center Dashboard designed to provide insights into call center performance and operational metrics.
 
-Features
+Features:
 1. Data Reading and Cleaning: Extracted data and opened in PowerQuery for transformation, checked data profile, removed duplicates, removed and replaced null values.
 2. Real-time Metrics: Monitor key performance indicators (KPIs) such as total number of calls, total call duration in hours, total call duration in min, average call duration in minutes and response time percentage.
 3. Trend Analysis: Analyze historical data trends to identify patterns, peak days, number of calls per state, mostly used channel for raising issue, issues resolved per call center, resolution feedback and recurring issues.
