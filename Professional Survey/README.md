@@ -1,10 +1,13 @@
 Professional Survey
-Overview: Analysis of IT professionals in Data field
-Description:
-1. Survey of Profeesionals in Data field.
-2. Count and average age of survey takers.
-3. Average salary as per Job Title.
-4. Work life balance and salary satisfaction analysis on the rating of 0-10.
-5. Popularity of coding langauges among them.
-6. Analysis on the basis of different countries.
-7. Difficulty level to break into different data fields.
+
+Overview:
+This folder contains the Power BI files for a Survery Dashboard designed to provide insights of Data Professionals in IT field Survey on variuos aspects.
+
+Features
+1. Data Reading and Cleaning: Extracted data and opened in PowerQuery for transformation, checked data profile, removed duplicates, updated values in some column to maintain consistency, removed and replaced null values.
+2. Real-time Metrics: Monitor key performance indicators (KPIs) such as total number of survey takers, average age of survey takers and average salary.
+3. Trend Analysis: Analyze data trends to identify patterns, region of survey takers, Average salary as per job title, favourite/popular language, difficulty levels to get the job, Work-life balance and salary satisfaction.
+4. Interactive Filters: Used dynamic filters to focus on specific countries.
+5. Data Visualizations: Utilize intuitive charts and graphs for easy interpretation of data.
+6. Data Connection: Connect the dashboard to local data source by configuring the data connections.
+7. Customization: Customize visuals, filters, and data sources according to specific country requirements.
