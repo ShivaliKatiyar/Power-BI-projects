@@ -1,7 +1,7 @@
 Call Centre Dashboard
 
 Overview:
-This repository contains the Power BI files for a comprehensive Call Center Dashboard designed to provide insights into call center performance and operational metrics.
+This folder contains the Power BI files for a comprehensive Call Center Dashboard designed to provide insights into call center performance and operational metrics.
 
 Features:
 1. Data Reading and Cleaning: Extracted data and opened in PowerQuery for transformation, checked data profile, removed duplicates, removed and replaced null values.
