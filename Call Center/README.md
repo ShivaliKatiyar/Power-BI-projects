@@ -10,5 +10,5 @@ Features:
 4. Report Details: detailed report of every call like call id, customer name, channel of communication, region of call, issue raised, and time taken to resolve the issue.
 5. Interactive Filters: Used dynamic filters to focus on specific time periods, city, and channels.
 6. Data Visualizations: Utilize intuitive charts and graphs for easy interpretation of data.
-7. Data Connection: Connect the dashboard to your call center data source by configuring the data connections.
+7. Data Connection: Connect the dashboard to the call center data source by configuring the data connections.
 8. Customization: Customize visuals, filters, and data sources according to your specific call center requirements.
